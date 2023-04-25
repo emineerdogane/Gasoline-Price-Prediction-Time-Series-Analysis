@@ -33,7 +33,7 @@ and Unbranded Fuel Prices (UFP), and it encompasses the following variables for 
 5-	Branded Fuel - State underground storage tank fee
 6-	Branded Fuel -State and local sales tax
 7-	Branded Fuel - State exercise tax
-8-	Branded Fuel - Federal exercise tax 
+8-	Branded Fuel - Federal exercise tax
 9-	Branded Fuel - Average retail prices
 10-	Unbranded Fuel - Distribution costs, and profits
 11-	Unbranded Fuel - Crude oil cost
@@ -41,5 +41,5 @@ and Unbranded Fuel Prices (UFP), and it encompasses the following variables for 
 13-	Unbranded Fuel - State underground storage tank fee
 14-	Unbranded Fuel -State and local sales tax
 15-	Unbranded Fuel - State exercise tax
-16-	Unbranded Fuel - Federal exercise tax 
+16-	Unbranded Fuel - Federal exercise tax
 17-	Unbranded Fuel - Average retail prices
